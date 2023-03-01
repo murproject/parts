@@ -1,5 +1,5 @@
 # MUR Gripper v4 версия с прямым доступом к приводу
-<img src="https://user-images.githubusercontent.com/106134147/222038728-79fcc7fe-137f-417f-bc29-058ef8a5481d.jpg" width="400" align="right">
+<img src="https://user-images.githubusercontent.com/106134147/222038728-79fcc7fe-137f-417f-bc29-058ef8a5481d.jpg" width="600" align="right">
 
 ## Описание
 Захват MUR Gripper 4 предназначен для использования в составе образовательных наборов для подводной робототехники, а также в индивидуальных проектах. Позволяет захватывать и удерживать объекты на глубинах до 10 метров.
